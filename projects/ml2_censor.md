@@ -1,5 +1,4 @@
-[<img src="../images/ml2_censor_graphic.png">](https://raw.githubusercontent.com/josephazanza/josephazanza.github.io/master/images/ml2_censor.graphic.png)
-
+[<img src="../images/ml2_censor_info.png">](https://raw.githubusercontent.com/josephazanza/josephazanza.github.io/master/images/ml2_censor_info.png)
 # Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects
 
 [Joseph Matthew Azanza](https://www.linkedin.com/in/josephazanza/) | [Ralph Roland Caubalejo](https://www.linkedin.com/in/ralph-caubalejo) | [Josef Ivan Monje](https://www.linkedin.com/in/josefmonje/) | [John Christopher Tambago](https://www.linkedin.com/in/jctambago/) <br>
