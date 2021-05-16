@@ -1,4 +1,4 @@
-[<img src="../images/ml2_FFsongs_graphic.png">](https://raw.githubusercontent.com/josephazanzajosephazanza.github.io/master/images/ml2_FFsongs_graphic.png)
+[<img src="../images/ml2_FFsongs_NN.png">](https://raw.githubusercontent.com/josephazanzajosephazanza.github.io/master/images/ml2_FFsongs_NN.png)
 
 # Composing Final Fantasy Sound Tracks via Neural Networks
 
