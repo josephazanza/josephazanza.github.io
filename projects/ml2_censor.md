@@ -1,6 +1,7 @@
 # Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects
 
-**Collaborators: [Ralph Roland Caubalejo](https://www.linkedin.com/in/ralph-caubalejo) | [Josef Monje](https://www.linkedin.com/in/josefmonje/ | [John Tambago](https://www.linkedin.com/in/jctambago/)
+**Collaborators: [Joseph Azanza](https://www.linkedin.com/in/josephazanza/} | [Ralph Roland Caubalejo](https://www.linkedin.com/in/ralph-caubalejo) | [Josef Monje](https://www.linkedin.com/in/josefmonje/ | [John Tambago](https://www.linkedin.com/in/jctambago/)
+Asian Institute of Management
 
 ## Infographic
 [<img src="../images/ml2_censor_graphic.png">](https://raw.githubusercontent.com/josephazanzajosephazanza.github.io/master/images/ml2_censor.graphic/png)
