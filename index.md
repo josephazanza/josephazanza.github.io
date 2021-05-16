@@ -4,8 +4,8 @@
 
 ### Machine Learning and Deep Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects]
+<img src="images/ml2_censor_graphic.png?raw=true"/>(/projects/ml2_censor.md)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
