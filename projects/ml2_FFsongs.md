@@ -1,4 +1,4 @@
-[<img src="../images/ml2_FFsongs_NN.png">](https://raw.githubusercontent.com/josephazanzajosephazanza.github.io/master/images/ml2_FFsongs_NN.png)
+[<img src="../images/ml2_FFsongs_NN.png">](https://raw.githubusercontent.com/josephazanza/josephazanza.github.io/master/images/ml2_FFsongs_NN.png)
 
 # Composing Final Fantasy Sound Tracks via Neural Networks
 
@@ -21,7 +21,9 @@ My key learnings on this project, both non-technical and technical ones, are sum
 |The importance of Batch Normalization layer. |This layer, when applied correctly, can dramatically increase training time while functioning as a regularization layer, hitting two birds with one stone.|
 |The importance of understanding the different metrics. |My experiments lead me to choose between validation accuracy and validation loss, and if I did not have understanding of when is it applicable to choose one over the other, I probably would've beaten myself over and over in attempting to lower the validation loss to be near zero as possible. In reality though, I already have good working model that can generalize with a good accuracy.|
 |Leveraging existing works and understanding and adapting them. |We don't have to start from scratch everytime. Understanding the work of others and leveraging these existing works (with proper citation), is also another important skill that every data scientist must have. Not only does it save time, but it also shows experience and maturity of learnings.|
+
 <br><br>
+
 <p align='justify'>
 <b>Keywords:</b> music generation, LSTM, Final Fantasy
 </p>
