@@ -8,7 +8,7 @@
 [<img src="images/ml2_FFsongs_graphic.png?raw=true"/>](/projects/ml2_FFsongs.md)
 
 #### Top 2: Thematic Evolution of Anime from 1980s to the 2010s
-[<img src="images/dmw_anime_title.png?raw=true"/>](/projects/dmw_anime.md)
+[<img src="images/dmw_anime_title.png?raw=true"/>](/projects/dmw_anime)
 
 #### Top 3: Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects
 [<img src="images/ml2_censor_graphic.png?raw=true"/>](/projects/ml2_censor.md)
