@@ -4,7 +4,7 @@
 Asian Institute of Management
 
 ## Infographic
-[<img src="../images/ml2_censor_graphic.png">](https://raw.githubusercontent.com/josephazanzajosephazanza.github.io/master/images/ml2_censor.graphic/png)
+[<img src="../images/ml2_censor_graphic.png">](https://raw.githubusercontent.com/josephazanzajosephazanza.github.io/master/images/ml2_censor.graphic.png)
 
 ## Abstract
 <p align='justify'>
