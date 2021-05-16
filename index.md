@@ -2,10 +2,21 @@
 
 ---
 
+### Top 3 Picks
+
+#### Top 1: Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects
+
+[<img src="images/ml2_censor_graphic.png?raw=true" height=500 width=500/>](/projects/ml2_censor.md)
+
+#### Top 2: Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects
+[<img src="images/ml2_FFsongs_graphic.png?raw=true" height=500 width=500/>](/projects/ml2_FFsongs.md)
+
+---
+
 ### Machine Learning and Deep Learning
 
-[Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects]
-<img src="images/ml2_censor_graphic.png?raw=true"/>(/projects/ml2_censor.md)
+[Project 2 Title](/pdf/sample_presentation.pdf)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
