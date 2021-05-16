@@ -8,7 +8,7 @@ Asian Institute of Management
 ## Executive Summary
 <p align='justify'>
 
-This is a passion project driven primarily by my interest in the the music of video games and the Final Fantasy franchise. The goal of this project is to apply my ML2 learnings and use neural networks to compose a Final Fantasy OST. The dataset I used are 100 handpicked MIDI files from Final Fantasy IV, Final Fantasy VII, and Final Fantasy X, representing three different eras of the franchise. The whole intuition of the project revolves around learning the sequences of notes and chords, predicting the next probable note or chord. The best network that I was able to train has 3 LSTMs + 2 sets of Batch Normalization-Dropout-Dense layers, with a validation accuracy of 74.89%. In terms of meeting the project goal, I was able to successfully generate OSTs using the trained network.
+This is a passion project driven primarily by my interest in the music of video games and the Final Fantasy franchise. The goal of this project is to apply my ML2 learnings and use neural networks to compose a Final Fantasy OST. The dataset I used are 100 handpicked MIDI files from Final Fantasy IV, Final Fantasy VII, and Final Fantasy X, representing three different eras of the franchise. The whole intuition of the project revolves around learning the sequences of notes and chords, predicting the next probable note or chord. The best network that I was able to train has 3 LSTMs + 2 sets of Batch Normalization-Dropout-Dense layers, with a validation accuracy of 74.89%. In terms of meeting the project goal, I was able to successfully generate OSTs using the trained network.
 
 My key learnings on this project, both non-technical and technical ones, are summarized below:
 </p>
