@@ -1,7 +1,8 @@
 [<img src="../images/dmw_anime_infographic.png">](https://raw.githubusercontent.com/josephazanza/josephazanza.github.io/master/images/dmw_anime_infographic.png)
+
 # Thematic Evolution of Anime from 1980s to the 2010s
 
-[Joseph Matthew Azanza](https://www.linkedin.com/in/josephazanza/) | [Christian Angelo Delariarte](https://www.linkedin.com/in/jelodelariarte/) | [Lyon Alec Fiesta](https://www.linkedin.com/in/lyonfiesta/) | [Alfonso Limpo](https://www.linkedin.com/in/alfonsolimpo/) | [Rea Tanguilig](https://www.linkedin.com/in/rea-tanguilig/)<br>
+[Joseph Matthew Azanza](https://www.linkedin.com/in/josephazanza/) | [Christian Angelo Delariarte](https://www.linkedin.com/in/jelodelariarte/) | [Lyon Alec Fiesta](https://www.linkedin.com/in/lyonfiesta/) | [Alfonso Limpo](https://www.linkedin.com/in/alfonsolimpo/) | [Rea Tanguilig](https://www.linkedin.com/in/rea-tanguilig/) <br>
 Asian Institute of Management
 
 ## Abstract
