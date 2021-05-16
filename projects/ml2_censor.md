@@ -1,4 +1,4 @@
-[<img src="../images/ml2_censor_graphic.png">](https://raw.githubusercontent.com/josephazanzajosephazanza.github.io/master/images/ml2_censor.graphic.png)
+[<img src="../images/ml2_censor_graphic.png">](https://raw.githubusercontent.com/josephazanza/josephazanza.github.io/master/images/ml2_censor.graphic.png)
 
 # Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects
 
