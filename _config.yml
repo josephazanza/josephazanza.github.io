@@ -4,7 +4,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p align='left'>
   Joseph Matthew R. Azanza
   <br><br>
-  Data Scientist with expertise in Molecular Biology, Biotechnology, Sales Operations, Marketing Operations, Business Intelligence, and Strategic Initiatives
+  Data Scientist with expertise in <br>
+  Molecular Biology, Biotechnology, <br>
+  Sales Operations, <br>
+  Marketing Operations, <br> 
+  Business Intelligence, <br>
+  and Strategic Initiatives
   <br><br>
   MS Data Science Candidate <br>
   Asian Institute of Management
