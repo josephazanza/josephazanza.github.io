@@ -6,10 +6,10 @@
 
 #### Top 1: Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects
 
-[<img src="images/ml2_censor_graphic.png?raw=true" height=500 width=500/>](/projects/ml2_censor.md)
+[<img src="images/ml2_censor_graphic.png?raw=true"/>](/projects/ml2_censor.md)
 
-#### Top 2: Going Deeper with Big D: Employing AI to Detect and Censor Pornography and NSFW Objects
-[<img src="images/ml2_FFsongs_graphic.png?raw=true" height=500 width=500/>](/projects/ml2_FFsongs.md)
+#### Top 2: Composing Final Fantasy Sound Tracks via Neural Networks
+[<img src="images/ml2_FFsongs_graphic.png?raw=true"/>](/projects/ml2_FFsongs.md)
 
 ---
 
