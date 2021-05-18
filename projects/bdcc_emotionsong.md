@@ -30,7 +30,7 @@ Asian Institute of Management
 
 ---
 
-**Source code available at [ML1_indiv](https://github.com/josephazanza/ML1_indiv)**
+**Source code available at [BDCC_MP1](https://github.com/josephazanza/BDCC_MP1)**
 
 ---
 
