@@ -35,4 +35,4 @@ Asian Institute of Management
 
 <hr>
 
-## [Back to main page](https://josephazanza.github.io/)
+<h2><a href="https://josephazanza.github.io/">Back to main page</a></h2>
