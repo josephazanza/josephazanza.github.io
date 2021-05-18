@@ -31,7 +31,7 @@ Asian Institute of Management
 
 <hr>
 
-<b>Source code available at <a href=https://github.com/josephazanza/BDCC_MP1>BDCC_MP1</a></b>
+<b>Source code available at <a href="https://github.com/josephazanza/BDCC_MP1">BDCC_MP1</a></b>
 
 <hr>
 
