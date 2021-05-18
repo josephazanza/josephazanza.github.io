@@ -19,7 +19,7 @@
 
 1. [Kulayan ang Drawing: Predicting Cancellation of Hotel Bookings](/projects/ml1_hotel.md)
 2. [Machine Learning in Biology: Predicting Heart Failure based on Patient Medical History and Blood Chemistry](/projects/ml1_heart.md)
-
+3. [Nomis Case Study: Optimizing the Loan Pricing System of e-Car](/projects/ml1_nomis.md)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
