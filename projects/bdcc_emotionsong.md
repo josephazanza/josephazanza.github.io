@@ -25,7 +25,8 @@ Asian Institute of Management
 			<li> <p style='align'> For example, whether making patients listen to a song invoking sad emotions <code> ((ef356d7f3dcb4772dec2e5310ae5c398,) -> 0.375, lift of 368.783984 </code> would really translate to an invoked negative emotion in terms of brain activity. </p> </li>
 		</ol>
 	</li>
-	
+</ul>
+
 <p style='align'> Overall, we were successful in finding patterns between emotions and songs. With the methodology and findings of this project, the researchers can then replicate, adapt, or tweak the study using their own databases of emotion states and songs. The flexibility offered by the methodology of the project gives the researchers the ability to have guided insights before performing experiments. These can potentially cut down time, cost, and the required effort in performing preliminary studies. In terms of recommendations, future studies can use a larger dataset with more time periods and more songs for better generalizability. The musical characteristics of each song can also be factored in for more interesting insights and rules. </p>
 
 ---
