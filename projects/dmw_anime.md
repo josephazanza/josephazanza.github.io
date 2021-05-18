@@ -15,7 +15,7 @@ In total we found 23 clusters for all decades. Four clusters were found for 1980
 
 Overall, we successfully identified clusters of Anime themes per decade using the plot data from 1980 up until 2019. We also found insights on how themes behaved and evolved throughout time. In terms of value, anime creators and producers, and fans can use our findings strategize on what kinds of anime shows to explore for production and consumption, respectively. In terms of recommendations, we recommend an alternative methodology via soft clustering. We also recommend the inclusion of additional data such as financial success of top anime per decade to link profit and anime themes, as well as data on production studios, time slots for airing, and watcher demographic data (in compliance with privacy laws) to give further insights on potential customer behavior.
 <br><br>
-<b>Keywords:</b> pornography classifier, neural networks, automated censorship
+<b>Keywords:</b> unsupervised learning, clustering, thematic analysis
 </p>
 
 ---
