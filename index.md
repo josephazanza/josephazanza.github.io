@@ -23,14 +23,6 @@
 4. [Predicting the Daily Returns of Stocks in the Philippine Stock Exchange via Natural Language Processing of News Articles](/projects/nlp_stocks.md)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Big Data and Cloud Computing
 
