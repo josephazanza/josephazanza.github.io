@@ -26,7 +26,8 @@
 
 ### Big Data and Cloud Computing
 
-- [Project 1 Title](http://example.com/)
+1. [Splitting the Internet with Big D: A Machine Learning Porn Classifier using Big Data](/projects/bdcc_censor.md)
+2. [Finding patterns between emotional state and played songs](/projects/bdcc_emotionsong.md)
 
 ---
 
