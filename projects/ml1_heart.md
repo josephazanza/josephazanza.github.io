@@ -14,7 +14,6 @@ Asian Institute of Management
 
 	<li> <p align='justify'> The value that the ML model with 85% accuracy gives when we applied in a different context is that it can provide us with a base expectation of what can happen. The ML model is used to augment decision making but not replace the decision makers. </p>
 
-</ol>
 
 ---
 
