@@ -28,7 +28,8 @@
 
 1. [Splitting the Internet with Big D: A Machine Learning Porn Classifier using Big Data](/projects/bdcc_censor.html)
 2. [Finding patterns between emotional state and played songs](/projects/bdcc_emotionsong.html)
-
+3. [1st World Problems: Analyzing the Stability of Internet Bandwidth of Canada for 2020](/projects/bdcc_migration.md)
+4. [Characterizing Existing Digital Communities in 2020 through Unsupervised Machine Learning](/projects/bdcc_webcommunities.md)
 ---
 
 ### Data Mining
