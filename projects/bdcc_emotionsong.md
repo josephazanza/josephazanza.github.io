@@ -29,10 +29,10 @@ Asian Institute of Management
 
 <p align='justify'> Overall, we were successful in finding patterns between emotions and songs. With the methodology and findings of this project, the researchers can then replicate, adapt, or tweak the study using their own databases of emotion states and songs. The flexibility offered by the methodology of the project gives the researchers the ability to have guided insights before performing experiments. These can potentially cut down time, cost, and the required effort in performing preliminary studies. In terms of recommendations, future studies can use a larger dataset with more time periods and more songs for better generalizability. The musical characteristics of each song can also be factored in for more interesting insights and rules. </p>
 
----
+<hr>
 
-**Source code available at [BDCC_MP1](https://github.com/josephazanza/BDCC_MP1)**
+<b>Source code available at <a href=https://github.com/josephazanza/BDCC_MP1>BDCC_MP1</a></b>
 
----
+<hr>
 
 ## [Back to main page](https://josephazanza.github.io/)
