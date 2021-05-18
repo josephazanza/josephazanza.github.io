@@ -17,8 +17,8 @@
 
 ### Machine Learning and Deep Learning
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
+1. [Kulayan ang Drawing: Predicting Cancellation of Hotel Bookings](/projects/ml1_hotel.md)
+2. [Machine Learning in Biology: Predicting Heart Failure based on Patient Medical History and Blood Chemistry](/projects/ml1_heart.md)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
